@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43ddb944-238a-4bca-af70-969c6a8f6f3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/face_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_detection.py" afterDir="false" />
-    </list>
+    <list default="true" id="43ddb944-238a-4bca-af70-969c6a8f6f3a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/face_detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -25,15 +23,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/Ex_Files_Deep_Learning_Face_Recog/Exercise Files/Mac Exercise Files/Ch03/face_detection final.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/tmpjzxk0dhg.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -157,18 +148,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1392" y="-103" width="1658" height="942" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19181429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49969456" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5015272" side_tool="true" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4990837" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5009163" side_tool="true" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4984728" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984728" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49969456" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,6 +179,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/After_detection.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$USER_HOME$/Downloads/Ex_Files_Deep_Learning_Face_Recog/Exercise Files/Mac Exercise Files/Ch03/face_detection final.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -199,10 +192,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tmpjzxk0dhg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/face_detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
